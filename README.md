@@ -70,7 +70,7 @@ $base-color-hover: darken($base-color, 10%);
 $background: #fff;
 $background-alt: #f2f2f5;
 
-// Define border colors
+// Define border colorsq
 $border: #dcd9d9;
 
 // Define text colors
