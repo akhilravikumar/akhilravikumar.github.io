@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://akhilravikumar.github.io/akhilravikumar.github.io/sitemap.xml
